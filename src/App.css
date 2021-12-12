@@ -1,0 +1,583 @@
+
+body{
+  position: absolute;
+  width: 1200px;
+  height: 2800px;
+  left: 0px;
+  background: #14110E;
+}
+
+.img{
+  position: absolute;
+  width: 298px;
+  height: 302px;
+  left: 375px;
+  top: 114px;
+}
+
+.img1{
+position: absolute;
+width: 298px;
+height: 301px;
+left: 375px;
+top: 448px;
+}
+
+.img2{
+  position: absolute;
+width: 298px;
+height: 635px;
+left: 705px;
+top: 114px;
+}
+
+.block{
+  position: absolute;
+width: 510px;
+height: 635px;
+left: 1035px;
+top: 114px;
+
+background: #1C1814;
+}
+
+.our{
+  position: absolute;
+width: 99px;
+height: 22px;
+left: 56px;
+top: 120px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #C99E71;
+}
+
+.create{
+position: absolute;
+width: 398px;
+height: 124px;
+left: 56px;
+top: 154px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 62px;
+/* or 62px */
+
+color: #FFFFFF;
+}
+
+.mauris{
+position: absolute;
+width: 398px;
+height: 174px;
+left: 56px;
+top: 314px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+text-transform: capitalize;
+
+color: rgba(255, 255, 255, 0.8);
+
+opacity: 0.8;
+}
+
+.popular{
+position: absolute;
+width: 180px;
+height: 22px;
+left: 915px;
+top: 889px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #C99E71;
+}
+
+.coffee{
+  position: absolute;
+width: 527px;
+height: 62px;
+left: 717px;
+top: 923px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+
+color: #FFFFFF;
+}
+
+.block1{
+  position: absolute;
+width: 366px;
+height: 579px;
+left: 375px;
+top: 1041px;
+
+background: #121315;
+}
+
+.img3{
+  position: absolute;
+width: 270px;
+height: 343px;
+left: 48px;
+top: 48px;
+}
+
+.brazil{
+  position: absolute;
+width: 245px;
+height: 30px;
+left: 61px;
+top: 467px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+.blockt{
+  position: relative;
+  width:200px;
+   height:1200px;
+   
+}
+
+.but{
+  position: absolute;
+  display: none;
+width: 189px;
+height: 48px;
+left: 90px;
+top: 533px;
+border: none;
+padding-left: 50px;
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+background: #C99E71;
+}
+ 
+.blockt:hover .but{
+  display: block;
+}
+
+.ve{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 20px;
+top: 12px;
+}
+
+.add{
+position: absolute;
+width: 130px;
+height: 22px;
+left: 56px;
+top: 0px;
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.block2{
+position: absolute;
+width: 366px;
+height: 579px;
+left: 777px;
+top: 1041px;
+
+background: #121315;
+}
+
+.coffee1{
+position: absolute;
+width: 57px;
+height: 19px;
+left: 91px;
+top: 428px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+
+color: #C99E71;
+}
+
+.star{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 161px;
+top: 450px;
+}
+
+.star1{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 185px;
+top: 450px;
+
+}
+
+.star2{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 209px;
+top: 450px;
+}
+
+.star3{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 233px;
+top: 450px;
+}
+
+.starOpen{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 257px;
+top: 450px;
+}
+
+.brazil2{
+  position: absolute;
+width: 245px;
+height: 30px;
+left: 61px;
+top: 467px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.price{
+  position: absolute;
+width: 181px;
+height: 22px;
+left: 94px;
+top: 527px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.price2{
+position: absolute;
+width: 181px;
+height: 22px;
+left: 160px;
+top: 527px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #C99E71;
+
+}
+
+.price3{
+  position: absolute;
+  width: 181px;
+  height: 22px;
+  left: 240px;
+  top: 527px;
+  
+  font-family: Urbanist;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-transform: uppercase;
+  
+  color: #FFFFFF;
+}
+
+.block3{
+  position: absolute;
+width: 366px;
+height: 579px;
+left: 1179px;
+top: 1041px;
+
+background: #121315;
+}
+
+.view{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 36px;
+border:none;
+color: white;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+position: absolute;
+width: 252px;
+height: 62px;
+left: 853px;
+top: 1732px;
+
+background: #C99E71;
+}
+
+.product{
+position: relative;
+width: 180px;
+height: 22px;
+left: 36px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.popularProduct{
+  position: absolute;
+width: 1170px;
+height: 849px;
+left: 375px;
+top: 889px;
+}
+
+.Bg{
+  position: absolute;
+width: 585px;
+height: 652px;
+left: 375px;
+top: 1974px;
+}
+
+.contacts{
+  position: absolute;
+width: 585px;
+height: 652px;
+left: 960px;
+top: 1974px;
+
+background: #1C1814;
+}
+
+.reservation{
+  position: absolute;
+width: 97px;
+height: 22px;
+left: 244px;
+top: 72px;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #C99E71;
+}
+
+.booking{
+  position: absolute;
+width: 353px;
+height: 60px;
+left: 116px;
+top: 105px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+.input{
+position: absolute;
+width: 489px;
+height: 64px;
+left: 48px;
+top: 222px;
+border: none;
+padding-left: 30px;
+color: white;
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+text-transform: capitalize;
+
+
+background: #14110E;
+}
+
+.input2{
+  position: absolute;
+width: 489px;
+height: 64px;
+left: 48px;
+top: 310px;
+border: none;
+padding-left: 30px;
+color: white;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+text-transform: capitalize;
+
+
+background: #14110E;
+}
+
+.input3{
+position: absolute;
+width: 489px;
+height: 64px;
+left: 48px;
+top: 398px;
+padding-left: 30px;
+border: none;
+color: white;
+
+font-family: Urbanist;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 180%;
+/* or 32px */
+text-transform: capitalize;
+
+background: #14110E;
+}
+
+.table{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 36px;
+
+position: absolute;
+width: 202px;
+height: 62px;
+left: 192px;
+top: 518px;
+border: none;
+font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-transform: uppercase;
+  
+  color: #FFFFFF;
+
+background: #C99E71;
+}
+
+.book2{
+  position: relative;
+  width: 130px;
+  height: 22px;
+  left: 36px;
+  top: 0px;
+  
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-transform: uppercase;
+  
+  color: #FFFFFF;
+}
